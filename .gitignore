@@ -19,3 +19,4 @@ SVN.errors.log
 *.sublime-project
 *.sublime-workspace
 Projects
+pm.sublime-settings
