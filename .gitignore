@@ -1,0 +1,21 @@
+# package Control
+Package Control.cache
+Package Control.last-run
+Package Control.merged-ca-bundle
+Package Control.user-ca-bundle
+
+# Xdebug
+Xdebug.log
+Xdebug.expressions
+Xdebug.breakpoints
+
+# Evernote
+Evernote.sublime-settings
+
+# SVN
+SVN.errors.log
+
+# Project files
+*.sublime-project
+*.sublime-workspace
+Projects

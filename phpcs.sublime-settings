@@ -1,0 +1,14 @@
+{
+    // Do you want to run the phpcs checker?
+    "phpcs_sniffer_run": false,
+    "phpcs_linter_run": false,
+    "phpmd_run": false,
+    "scheck_run": false,
+
+    // Show the quick panel
+    "php_cs_fixer_show_quick_panel": true,
+
+    // Path to where you have the php-cs-fixer installed
+    "php_cs_fixer_executable_path": "/usr/local/bin/php-cs-fixer",
+
+}

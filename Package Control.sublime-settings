@@ -1,0 +1,46 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Advanced CSV",
+		"AdvancedNewFile",
+		"Alignment",
+		"BracketHighlighter",
+		"BufferScroll",
+		"Cheat Sheets",
+		"Composer",
+		"dired",
+		"DocBlockr",
+		"Evernote",
+		"FileSystem Autocompletion",
+		"Find++",
+		"Function Name Display",
+		"Git",
+		"Handlebars",
+		"Indent XML",
+		"IntelliDocs",
+		"MoveTab",
+		"Origami",
+		"Package Control",
+		"PackageResourceViewer",
+		"PHP-Twig",
+		"Phpcs",
+		"Project Manager",
+		"Sublime Bookmarks",
+		"SublimeCodeIntel",
+		"SublimeFormatSQL",
+		"sublimelint",
+		"SublimeLog",
+		"SublimeManpage",
+		"SVN",
+		"Terminal",
+		"Xdebug Client"
+	],
+	"repositories":
+	[
+		"https://github.com/freewizard/SublimeFormatSQL",
+		"https://github.com/benmatselby/sublime-phpcs"
+	]
+}
