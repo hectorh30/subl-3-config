@@ -18,6 +18,7 @@
 		"Find++",
 		"Function Name Display",
 		"Git",
+		"GotoWindow",
 		"Handlebars",
 		"Indent XML",
 		"IntelliDocs",
@@ -29,6 +30,7 @@
 		"PHP-Twig",
 		"Phpcs",
 		"Project Manager",
+		"Select By Regex",
 		"SendToPasteBin",
 		"Sublime Bookmarks",
 		"SublimeCodeIntel",
@@ -38,6 +40,7 @@
 		"SublimeManpage",
 		"SVN",
 		"Terminal",
+		"Text Pastry",
 		"Xdebug Client"
 	],
 	"repositories":
