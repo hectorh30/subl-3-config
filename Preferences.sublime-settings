@@ -10,10 +10,10 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"0_package_control_loader",
 		"BracketHighlighter",
-		"SublimeCodeIntel"
+		"SublimeCodeIntel",
+		"0_package_control_loader",
+		"Vintage"
 	],
 	"indent_guide_options":
 	[

@@ -14,6 +14,9 @@
     { "keys": ["ctrl+shift+alt+pagedown"], "command": "find_next" },
     { "keys": ["ctrl+shift+alt+pageup"], "command": "find_prev" },
 
+    { "keys": ["ctrl+alt+super+up"], "command": "select_lines", "args": {"forward": false }},
+    { "keys": ["ctrl+alt+super+down"], "command": "select_lines", "args": {"forward": true }},
+
 
     // Replace panel key bindings
     { "keys": ["alt+f"], "command": "find_next", "context":

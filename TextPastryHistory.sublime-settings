@@ -1,0 +1,27 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "15"
+				},
+				"command": "text_pastry_auto_step",
+				"text": "as 15"
+			},
+			"key": "503d61bab9484dc3fc02e50498beaf7f",
+			"label": "as 15"
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"text": "15"
+		},
+		"command": "text_pastry_auto_step",
+		"text": "as 15"
+	}
+}
