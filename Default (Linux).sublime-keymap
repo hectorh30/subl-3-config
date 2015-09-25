@@ -25,7 +25,14 @@
             { "key": "panel_has_focus" }
         ]
     },
-    { "keys": ["alt+n"], "command": "replace_next", "context":
+    { "keys": ["alt+r"], "command": "replace_next", "context":
+        [
+            { "key": "panel", "operand": "replace" }, 
+            { "key": "panel_has_focus" }
+        ]
+    },
+
+    { "keys": ["alt+shift+r"], "command": "replace_all", "context":
         [
             { "key": "panel", "operand": "replace" }, 
             { "key": "panel_has_focus" }
