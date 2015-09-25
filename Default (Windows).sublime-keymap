@@ -32,6 +32,13 @@
         ]
     },
 
+    { "keys": ["alt+shift+r"], "command": "replace_all", "context":
+        [
+            { "key": "panel", "operand": "replace" }, 
+            { "key": "panel_has_focus" }
+        ]
+    },
+
     // Move Tab plugin customization
     { "keys": ["ctrl+shift+pageup"], "command": "move_tab", "args": { "position": "-1" } },
     { "keys": ["ctrl+shift+pagedown"], "command": "move_tab", "args": { "position": "+1" } },
