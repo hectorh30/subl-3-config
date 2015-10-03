@@ -37,8 +37,8 @@
     { "keys": ["ctrl+shift+pagedown"], "command": "move_tab", "args": { "position": "+1" } },
 
     // Origami plugin customization
-    { "keys": ["ctrl+2"], "command": "create_pane", "args": {"direction": "down"} },
-    { "keys": ["ctrl+3"], "command": "create_pane", "args": {"direction": "right"} },
+    { "keys": ["alt+2"], "command": "create_pane", "args": {"direction": "down"} },
+    { "keys": ["alt+3"], "command": "create_pane", "args": {"direction": "right"} },
 
     { "keys": ["alt+up"], "command": "travel_to_pane", "args": {"direction": "up"} },
     { "keys": ["alt+right"], "command": "travel_to_pane", "args": {"direction": "right"} },
