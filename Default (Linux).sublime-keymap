@@ -19,20 +19,20 @@
 
 
     // Replace panel key bindings
-    { "keys": ["alt+f"], "command": "find_next", "context":
+    { "keys": ["alt+shift+f"], "command": "find_next", "context":
         [
             { "key": "panel", "operand": "replace" }, 
             { "key": "panel_has_focus" }
         ]
     },
-    { "keys": ["alt+r"], "command": "replace_next", "context":
+    { "keys": ["alt+shift+r"], "command": "replace_next", "context":
         [
             { "key": "panel", "operand": "replace" }, 
             { "key": "panel_has_focus" }
         ]
     },
 
-    { "keys": ["alt+shift+r"], "command": "replace_all", "context":
+    { "keys": ["alt+shift+ctrl+r"], "command": "replace_all", "context":
         [
             { "key": "panel", "operand": "replace" }, 
             { "key": "panel_has_focus" }
@@ -44,8 +44,8 @@
     { "keys": ["ctrl+shift+pagedown"], "command": "move_tab", "args": { "position": "+1" } },
 
     // Origami plugin customization
-    { "keys": ["ctrl+2"], "command": "create_pane", "args": {"direction": "down"} },
-    { "keys": ["ctrl+3"], "command": "create_pane", "args": {"direction": "right"} },
+    { "keys": ["alt+2"], "command": "create_pane", "args": {"direction": "down"} },
+    { "keys": ["alt+3"], "command": "create_pane", "args": {"direction": "right"} },
 
     { "keys": ["alt+up"], "command": "travel_to_pane", "args": {"direction": "up"} },
     { "keys": ["alt+right"], "command": "travel_to_pane", "args": {"direction": "right"} },
