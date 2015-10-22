@@ -19,20 +19,20 @@
 
 
     // Replace panel key bindings
-    { "keys": ["alt+f"], "command": "find_next", "context":
+    { "keys": ["alt+shift+f"], "command": "find_next", "context":
         [
             { "key": "panel", "operand": "replace" }, 
             { "key": "panel_has_focus" }
         ]
     },
-    { "keys": ["alt+r"], "command": "replace_next", "context":
+    { "keys": ["alt+shift+r"], "command": "replace_next", "context":
         [
             { "key": "panel", "operand": "replace" }, 
             { "key": "panel_has_focus" }
         ]
     },
 
-    { "keys": ["alt+shift+r"], "command": "replace_all", "context":
+    { "keys": ["alt+shift+ctrl+r"], "command": "replace_all", "context":
         [
             { "key": "panel", "operand": "replace" }, 
             { "key": "panel_has_focus" }
