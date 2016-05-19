@@ -2,14 +2,15 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"AutoHotkey"
 	],
 	"installed_packages":
 	[
 		"Advanced CSV",
 		"AdvancedNewFile",
 		"Alignment",
-		"AutoHotkey",
 		"Anaconda",
+		"AutoHotkey",
 		"Babel",
 		"BracketHighlighter",
 		"BufferScroll",
