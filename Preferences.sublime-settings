@@ -10,9 +10,9 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"AutoHotkey",
 		"BracketHighlighter",
 		"Indent XML",
+		"LiveReload",
 		"SublimeCodeIntel",
 		"Vintage"
 	],
