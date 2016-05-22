@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"AutoHotkey"
 	],
 	"installed_packages":
 	[
@@ -9,6 +10,7 @@
 		"AdvancedNewFile",
 		"Alignment",
 		"Anaconda",
+		"AutoHotkey",
 		"Babel",
 		"BracketHighlighter",
 		"BufferScroll",
