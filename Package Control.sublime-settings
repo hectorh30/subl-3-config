@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"LiveReload"
 	],
 	"installed_packages":
 	[
@@ -12,6 +11,7 @@
 		"Anaconda",
 		"AutoHotkey",
 		"Babel",
+		"Behat",
 		"BracketHighlighter",
 		"BufferScroll",
 		"Cheat Sheets",
@@ -35,6 +35,7 @@
 		"PHP Companion",
 		"PHP-Twig",
 		"Phpcs",
+		"Pretty JSON",
 		"Project Manager",
 		"Python Breakpoints",
 		"Select By Regex",
