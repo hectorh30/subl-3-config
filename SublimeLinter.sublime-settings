@@ -30,7 +30,9 @@
         "paths": {
             "linux": [],
             "osx": [],
-            "windows": []
+            "windows": [
+                "C:\\Program Files\\nodejs\\node.exe"
+            ]
         },
         "python_paths": {
             "linux": [],

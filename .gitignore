@@ -26,3 +26,7 @@ SVN.errors.log
 *.sublime-workspace
 Projects
 pm.sublime-settings
+
+# The MarkdownPreview config file is ignored to avoid problems with the browser
+# path
+MarkdownPreview.sublime-settings
