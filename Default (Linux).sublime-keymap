@@ -84,12 +84,16 @@
 
     // Xdebug
     {"keys": ["f9"], "command": "xdebug_breakpoint"},
+    {"keys": ["ctrl+b"], "command": "xdebug_breakpoint"},
     {"keys": ["ctrl+f9"], "command": "xdebug_session_start"},
     {"keys": ["ctrl+shift+f9"], "command": "xdebug_session_stop", "args" : {"close_windows" : true}},
     {"keys": ["f5"], "command": "xdebug_continue", "args": {"command": "step_over"}},
+    {"keys": ["f10"], "command": "xdebug_continue", "args": {"command": "step_over"}},
     {"keys": ["ctrl+f5"], "command": "xdebug_continue", "args": {"command": "step_into"}},
+    {"keys": ["f11"], "command": "xdebug_continue", "args": {"command": "step_into"}},
     {"keys": ["ctrl+shift+f5"], "command": "xdebug_continue", "args": {"command": "step_out"}},
     {"keys": ["ctrl+shift+alt+f5"], "command": "xdebug_continue", "args": {"command": "run"}},
+    {"keys": ["f8"], "command": "xdebug_continue", "args": {"command": "run"}},
     {"keys": ["ctrl+shift+alt+f9"], "command": "xdebug_continue", "args": {"command": "detach"}},
     {"keys": ["ctrl+k", "ctrl+w"], "command": "xdebug_watch"},
     {"keys": ["ctrl+shift+alt+w"], "command": "xdebug_watch", "args": {"clear" : true}},
@@ -118,5 +122,8 @@
     },
     {
         "keys": ["ctrl+shift+alt+f2"], "command": "sublime_bookmark", "args" : { "type" : "remove_all" }
-    }
+    },
+
+    // Focus file on sidebar
+    { "keys": ["ctrl+k", "ctrl+f"], "command": "reveal_in_side_bar"}
 ]
