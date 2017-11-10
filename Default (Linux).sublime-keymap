@@ -16,7 +16,7 @@
 
     { "keys": ["ctrl+alt+super+up"], "command": "select_lines", "args": {"forward": false }},
     { "keys": ["ctrl+alt+super+down"], "command": "select_lines", "args": {"forward": true }},
-
+    { "keys": ["ctrl+alt+super+w"], "command": "toggle_setting", "args": {"setting": "word_wrap"}},
 
     // Replace panel key bindings
     { "keys": ["alt+shift+f"], "command": "find_next", "context":
